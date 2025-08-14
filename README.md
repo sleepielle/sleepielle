@@ -1,24 +1,35 @@
+<h1 align="center">Hi there 🌸, I’m Mercedes Paz</h1>
 
-<h1 align="center"> Mercedes Paz </h1>
+<p align="center">
+  💻 <strong>Software Engineer</strong> | 🌎 Based in Honduras | 🎨 Creative at heart
+</p>
+
+![banner](https://media.licdn.com/dms/image/v2/D4E16AQH-7-xnc3xVGg/profile-displaybackgroundimage-shrink_350_1400/B4EZX6f8nDHgAo-/0/1743664434860?e=1758153600&v=beta&t=2HPuIPRbwO_2dRyT1MaBZtw0322dmnxQ0Fw242EAr5w)
 
 
-<h1 align="center">
+I’m passionate about crafting **Full-Stack applications**, with a soft spot for designing **beautiful, user-friendly front-end websites**.  
+Outside of coding, you’ll often find me **reading, painting, writing, scrapbooking**, and exploring creative outlets.  
+My dream? To use technology to **support mental health and boost productivity** through thoughtful, impactful apps.  
+
+<br/>
+
+### 🌟 What I’m Up To
+- 🔭 Currently building my **portfolio** and **digital garden**, alongside several **Full-Stack projects**. Stay tuned!  
+- 💬 Deeply interested in **Full-Stack Development** & **Project Management**.  
+- ⚡ Fun fact: I’m **23 years old** and love the **Studio Ghibli** films.  
+- 📘 [**Connect with me on LinkedIn**](https://linkedin.com/in/mercedesgpaz)  
+
+<br/>
+
+### 🧰 Languages & Tools
+  <a href="https://github.com/sleepielle/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepielle" alt="Top Langs" />
+  </a>
+
+<br/>
+
+### 📩 Contact Me 
+- 📧 pggisselle@gmail.com
+
   
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQH-7-xnc3xVGg/profile-displaybackgroundimage-shrink_350_1400/B4EZX6f8nDHgAo-/0/1743664434860?e=1749081600&v=beta&t=f6Y8o0heJrRU9oIzYwOZnXBHbVflJrOyQOp5n_ARVYY">
- </h1>
-
-
-<!--
-**sleepielle/sleepielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting! Don't be a stranger 🌟
