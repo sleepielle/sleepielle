@@ -17,19 +17,20 @@ My dream? To use technology to **support mental health and boost productivity** 
 - 🔭 Currently building my **portfolio** and **digital garden**, alongside several **Full-Stack projects**. Stay tuned!  
 - 💬 Deeply interested in **Full-Stack Development** & **Project Management**.  
 - ⚡ Fun fact: I’m **23 years old** and love the **Studio Ghibli** films.  
-- 📘 [**Connect with me on LinkedIn**](https://linkedin.com/in/mercedesgpaz)  
+
 
 <br/>
 
 ### 🧰 Languages & Tools
-  <a href="https://github.com/sleepielle/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepielle" alt="Top Langs" />
-  </a>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sleepielle" alt="sleepielles's Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepielle" alt="Top Langs" height="180"/>
+</p>
 
 <br/>
 
 ### 📩 Contact Me 
-- 📧 pggisselle@gmail.com
-
+📧 pggisselle@gmail.com <br/>
+📘 [Let's connect on LinkedIn](https://linkedin.com/in/mercedesgpaz)  
   
 Thanks for visiting! Don't be a stranger 🌟
